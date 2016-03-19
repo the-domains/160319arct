@@ -1,7 +1,7 @@
 name: 160319ARCT
 favicon: null
-layout_spectrum: 0.8868086151778698
-typography_spectrum: 0.13147967820987105
+layout_spectrum: 0.02936
+typography_spectrum: 0.73574
 title: Berlin
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.6431481442414224
-  lightness: 0.8990509782452136
-  saturation: 0.009697408182546496
-  rhythmicContrast: 0.9459897470660508
+    - '#abd9fd'
+    - '#d9f6fe'
+    - '#1a1a24'
+    - '#656170'
+    - '#839ac6'
+  brandStrength: 0.0625
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
